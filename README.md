@@ -12,7 +12,7 @@ type: **!death_check** (will print to chat how many times ive died this stream)
 
 type: **!guess** (followed by a guess) this is a mini game of guess a number between (1 and 10)
 
-type: **!today** (will print to chat todays goal and current project)
+type: **!today** `will print to chat todays goal and current project`
 
 type: **!project** (will print to chat my current goal)
 
